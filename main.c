@@ -2,12 +2,6 @@
 #include <stdio.h> 
 #include <math.h>
 
-//Assignment 4
-//Austin Chirgwin
-//ENGR 19700
-//Wendesday, September 25, 2019
-//This program computes real roots of a quadratic equation in the form ax^2 + bx + c based on user input of a, b, and c.
-
 int main(void)
 {
 	double a;
